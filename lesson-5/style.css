@@ -1,0 +1,36 @@
+.header{
+    text-align:center;
+    color: #220022;
+    text-decoration: underline;
+}
+
+html {
+    background: url(background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.chapter-1{
+    color: #000088;
+    font-style: italic;
+}
+.chapter-2{
+    color:#1a1627;
+    font-style: bold;
+}
+.chapter-3{
+    color: #1d2906;
+    text-decoration: none;
+}
+.chapter-4{
+    color: #5c2518;
+    font-weight: bold;
+}
+.chapter-5{
+    color: #460e39;
+    font-style: oblique;
+}
+.frame{
+    border-style:solid;
+}
